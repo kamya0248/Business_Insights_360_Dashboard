@@ -5,6 +5,8 @@
 📥 **Download the full Power BI dashboard here:**  
 [Download PBIX](https://drive.google.com/file/d/1i1iRga7PLa1Ro1NUZyZZxb7OUuyO_iQq/view?usp=sharing)
 
+![Dashboard Overview](assets/executive_view.png)
+
 ---
 
 # Project Overview
